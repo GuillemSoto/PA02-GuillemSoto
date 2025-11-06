@@ -1,0 +1,14 @@
+C:\Users\isard\source\repos\PA02_GuillemSoto\PA02_GuillemSoto\bin\Debug\net8.0\PA02_GuillemSoto.exe
+C:\Users\isard\source\repos\PA02_GuillemSoto\PA02_GuillemSoto\bin\Debug\net8.0\PA02_GuillemSoto.deps.json
+C:\Users\isard\source\repos\PA02_GuillemSoto\PA02_GuillemSoto\bin\Debug\net8.0\PA02_GuillemSoto.runtimeconfig.json
+C:\Users\isard\source\repos\PA02_GuillemSoto\PA02_GuillemSoto\bin\Debug\net8.0\PA02_GuillemSoto.dll
+C:\Users\isard\source\repos\PA02_GuillemSoto\PA02_GuillemSoto\bin\Debug\net8.0\PA02_GuillemSoto.pdb
+C:\Users\isard\source\repos\PA02_GuillemSoto\PA02_GuillemSoto\obj\Debug\net8.0\PA02_GuillemSoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\source\repos\PA02_GuillemSoto\PA02_GuillemSoto\obj\Debug\net8.0\PA02_GuillemSoto.AssemblyInfoInputs.cache
+C:\Users\isard\source\repos\PA02_GuillemSoto\PA02_GuillemSoto\obj\Debug\net8.0\PA02_GuillemSoto.AssemblyInfo.cs
+C:\Users\isard\source\repos\PA02_GuillemSoto\PA02_GuillemSoto\obj\Debug\net8.0\PA02_GuillemSoto.csproj.CoreCompileInputs.cache
+C:\Users\isard\source\repos\PA02_GuillemSoto\PA02_GuillemSoto\obj\Debug\net8.0\PA02_GuillemSoto.dll
+C:\Users\isard\source\repos\PA02_GuillemSoto\PA02_GuillemSoto\obj\Debug\net8.0\refint\PA02_GuillemSoto.dll
+C:\Users\isard\source\repos\PA02_GuillemSoto\PA02_GuillemSoto\obj\Debug\net8.0\PA02_GuillemSoto.pdb
+C:\Users\isard\source\repos\PA02_GuillemSoto\PA02_GuillemSoto\obj\Debug\net8.0\PA02_GuillemSoto.genruntimeconfig.cache
+C:\Users\isard\source\repos\PA02_GuillemSoto\PA02_GuillemSoto\obj\Debug\net8.0\ref\PA02_GuillemSoto.dll
